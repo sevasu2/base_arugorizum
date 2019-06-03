@@ -1,4 +1,4 @@
-バイナリー検索法
+# バイナリー検索法
 array = [ 11, 13, 17, 19, 23, 29, 31 ]
 
 def binary_search(array, target)

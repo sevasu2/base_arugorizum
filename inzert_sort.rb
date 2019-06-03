@@ -1,3 +1,4 @@
+# 単純挿入法（挿入ソート）
 def insertion_sort(a)
   n = a.size
   1.upto(n - 1) do |j|
